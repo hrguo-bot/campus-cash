@@ -1,0 +1,10 @@
+{
+  "name": "Campus Cash",
+  "short_name": "CampusCash",
+  "description": "College finance tracker",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#EEF2F7",
+  "theme_color": "#6C63FF",
+  "orientation": "portrait"
+}
